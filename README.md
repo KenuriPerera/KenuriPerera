@@ -1,15 +1,17 @@
+<div align="center">
 
-# Hi, I'm Kenuri 👋
+<h1><b>Hi, I'm Kenuri 👋</b></h1>
+<b>Developer · Aspiring Business Analyst · Problem Solver</b>
+<br/>
+<b>Bridging the gap between technical solutions and business needs</b>
 
-**Developer · Aspiring Business Analyst · Problem Solver**
+<br/>
 
-Bridging the gap between technical solutions and business needs
+<br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenuriperera@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maurodesouza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza)
 
 </div>
 
